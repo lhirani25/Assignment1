@@ -52,7 +52,7 @@ namespace Assignment1
              * this assignment, I have learned to make use of the same array to do the calculations without using any temporary  
              * place holder. 
              * Recommendation: We could have assignments having more methods focussing on arrays , different data types with
-             * array: array of strings, double,finding the lower/upper bound etc, for comfort in use of arrays.
+             * array: array of strings, double,finding the lower/upper bound etc,prime numbers in an array for comfort in use of arrays.
              *  
              **/
 
